@@ -1,5 +1,7 @@
 Vista general
 Movie es una aplicación que permite buscar películas, ver sus detalles (sinopsis, reparto, calificación, etc.) y guardar favoritas para consultarlas después. Combina un diseño moderno con la fluidez de Ionic y la potencia de Angular.
+
+
 🗺️Stack técnico
 •	Framework: Ionic + Angular
 •	Mobile bridge: Capacitor (Android/iOS)
@@ -8,6 +10,7 @@ Movie es una aplicación que permite buscar películas, ver sus detalles (sinops
 📦  Requisitos
 •	Node.js ≥ 18 LTS (recomendado)
 •	Ionic CLI: npm i -g @ionic/cli
+
 
 ⚙️Configuración
 1.	Clonar el repositorio:
